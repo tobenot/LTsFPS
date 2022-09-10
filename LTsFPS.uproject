@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CE8EB48D-48D4-D7C1-6E43-059146E2B19A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LTsFPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
